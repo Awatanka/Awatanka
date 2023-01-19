@@ -1,10 +1,10 @@
-<h2 align="center">Hi 👋! My name is Nataliia. <br/> I'm a Frontend Developer with extra knowledge of UX design, Node.js and MySQL based in Greater Vancouver. </h2>
+<h2 align="center">Hi 👋! My name is Nataliia. </h2 <br/> <h4 align="center"> I'm a Frontend Developer with extra knowledge of UX design, Node.js and MySQL based in Greater Vancouver. </h4>
 
   <div align="center">
   <img src="https://user-images.githubusercontent.com/97055104/213554574-d4b12e98-24a8-4d61-af80-0e5acfa47652.gif" />
    </div> 
   
-  <h4> I have been working as a teacher at the university for more than 10 years. I have PhD deegree in Food Science and have been teaching how to design and build factories, develop new food products. And now I know how to design and build websites and applications. </h4>
+  <p> I have been working as a teacher at the university for more than 10 years. I have PhD deegree in Food Science and have been teaching how to design and build factories, develop new food products. And now I know how to design and build websites and applications. </p>
   <br><br> 
 
 
