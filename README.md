@@ -5,14 +5,10 @@
    </div> 
   
   <p> I have been working as a teacher at the university for more than 10 years. I have PhD deegree in Food Science and have been teaching how to design and build factories, develop new food products. And now I know how to design and build websites and applications. </p>
-  <br><br> 
-
+  <br/>
 
 ###
 [![GitHub Streak](https://streak-stats.demolab.com?user=Awatanka&hide_border=true&border_radius=2.6&mode=weekly)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awatanka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 ###
