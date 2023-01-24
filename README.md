@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/97055104/213554574-d4b12e98-24a8-4d61-af80-0e5acfa47652.gif" />
    </div> 
   
-  <p> I have been working as a teacher at the university for more than 10 years. I have PhD deegree in Food Science and have been teaching how to design and build factories, develop new food products. And now I know how to design and build websites and applications. </p>
+  <p> I have been working as a teacher at the university for more than 10 years. I have PhD deegree in Food Science and have been teaching how to design and build factories, develop new food products. And now I know how to design and build websites and applications. I have a strong ability to adapt to different working styles and can work well with team members of all levels of experience. I am able to take direction from team leads, while also contributing my own ideas and suggestions. </p>
   <br/>
 
 ###
@@ -12,7 +12,7 @@
 
 
 ###
-<h4 align="center"> SKills and tools </h4>
+<h4 align="center"> Skills and tools </h4>
 <div align="center">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
@@ -34,6 +34,7 @@
 
 ###
 
+  <h4 align="center"> Contact me </h4>
 <div align="center">
   <a href = "mailto:natalia.sokolova.ca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="35"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/natalia-sokolova-/" target="_blank">
