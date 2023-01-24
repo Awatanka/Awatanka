@@ -8,10 +8,6 @@
   <br/>
 
 ###
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Awatanka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-###
 <h3 align="center"> Skills and tools </h3>
 <div align="center">
   
