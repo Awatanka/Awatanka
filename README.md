@@ -36,7 +36,8 @@
 
   <h4 align="center"> Contact me </h4>
 <div align="center">
-  <a href = "mailto:natalia.sokolova.ca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30"></a>
+  <a href = "mailto:natalia.sokolova.ca@gmail.com"><img src="https://user-images.githubusercontent.com/97055104/214204359-0e348235-6a63-46fb-a641-f3b9506f7a33.png" target="_blank" height="30"></a>
+  
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/natalia-sokolova-/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
