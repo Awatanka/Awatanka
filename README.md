@@ -6,11 +6,8 @@
   
   <p align="center"> I have been working as a teacher at the university for more than 10 years. I have PhD deegree in Food Science and have been teaching how to design and build factories, develop new food products. And now I know how to design and build websites and applications. I have a strong ability to adapt to different working styles and can work well with team members of all levels of experience. I am able to take direction from team leads, while also contributing my own ideas and suggestions. </p>
   <br/>
-
-###
 <h3 align="center"> Skills and tools </h3>
 <div align="center">
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="42" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="35" alt="html5 logo"  />
@@ -24,11 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="35" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" width="42" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" width="42" alt="canva logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" width="42" alt="mysql logo"  //>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" width="42" alt="mysql logo"  />
 </div>
-
-###
 
   <h3 align="center"> Contact me </h3>
 <div align="center">
