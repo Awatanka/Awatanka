@@ -32,4 +32,10 @@
     <img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" height="35" alt="linkedin logo"  />
   </a>
 </div>
-###
+  
+## Recent projects
+  
+  <img width="300" alt="Screen Shot 2023-01-26 at 6 54 58 PM" src="https://user-images.githubusercontent.com/97055104/215000397-4c9ba404-c8da-4054-81e0-667da19938fd.png"> <p> Project-winner of 24 hour cross-functional hackathon. Team consisted of 3 devs and 3 UX designers * Tech Stack: React, Sass</p>
+  
+<img width="300" alt="Screen Shot 2023-01-26 at 6 58 09 PM" src="https://user-images.githubusercontent.com/97055104/215000728-1374b3bd-0a0e-4285-8103-dacfaeb7b879.png">
+
