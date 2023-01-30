@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nataliia. </h2 <br/> <h4 align="center"> I'm a Frontend Developer with extra knowledge of UX design, Node.js and MySQL based in Greater Vancouver. I am looking for internship or full-time opportunities! </h4>
+<h2 align="center">Hi 👋! </h2 <br/> <h4 align="center"> I'm a Frontend Developer with extra knowledge of UX design, Node.js and MySQL based in Greater Vancouver. I am looking for internship or full-time opportunities! </h4>
 
   <div align="center" width="200px">
   <img src="https://user-images.githubusercontent.com/97055104/213554574-d4b12e98-24a8-4d61-af80-0e5acfa47652.gif" />
