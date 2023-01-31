@@ -1,12 +1,8 @@
-<div align="center" justify="center"> 
-  <h2 align="center">Hi 👋! </h2>
-  <img src="https://user-images.githubusercontent.com/97055104/213554574-d4b12e98-24a8-4d61-af80-0e5acfa47652.gif" width="100px"/>
-  <br/> 
-  <h4 align="center"> I'm a Frontend Developer with extra knowledge of UX design, Node.js and MySQL based in Greater Vancouver. I am looking for internship or full-time opportunities! </h4>
-    </div>
 
-  
-  <p align="center"> I have PhD deegree in Food Science and have been teaching how to design and build factories, develop new food products. And now I know how to design and build websites and applications. I have a strong ability to adapt to different working styles and can work well with team members of all levels of experience. I am able to take direction from team leads, while also contributing my own ideas and suggestions. </p>
+  <h2 align="center">Hi 👋! </h2>
+  <h4 align="center"> I am a software developer with deep knowledge of UX design. I like working on the client side. However. my background and expertise allow me to see myself as a full-stack developer, making me a valuable asset to any team. I am seeking an internship or full-time opportunity to further develop my skills and grow my career. </h4>
+ 
+  <p align="center"> <img src="https://user-images.githubusercontent.com/97055104/213554574-d4b12e98-24a8-4d61-af80-0e5acfa47652.gif" width="150px"/> I have PhD deegree in Food Science and have been teaching how to design and build factories, develop new food products. And now I know how to design and build websites and applications. I have a strong ability to adapt to different working styles and can work well with team members of all levels of experience. I am able to take direction from team leads, while also contributing my own ideas and suggestions. </p>
   <br/>
 <h3 align="center"> Skills and tools </h3>
 <div align="center">
@@ -38,15 +34,15 @@
 </div>
   
 ## Latest projects
-  <td> 
+
     <table><tr><td valign="top" width="50%">  <img width="300" alt="Screen Shot 2023-01-26 at 6 54 58 PM" src="https://user-images.githubusercontent.com/97055104/215000397-4c9ba404-c8da-4054-81e0-667da19938fd.png"> 
-  <img width="300" alt="Screen Shot 2023-01-31 at 2 54 44 PM" src="https://user-images.githubusercontent.com/97055104/215903655-b224a876-10ce-4060-b299-cc469290c446.png"></td>
+  <img width="300" alt="Screen Shot 2023-01-31 at 2 54 44 PM" src="https://user-images.githubusercontent.com/97055104/215903655-b224a876-10ce-4060-b299-cc469290c446.png">
+      </td>
       <tdvalign="top" width="50%"> <img width="300" alt="Screen Shot 2023-01-31 at 2 54 44 PM" src="https://user-images.githubusercontent.com/97055104/215903655-b224a876-10ce-4060-b299-cc469290c446.png"></td>
     </tr>
       <tr></tr>
-  </td>
  
-
+</table>
    <a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> Watch Demo </a><br/>
   
   <p> Project-winner of 24 hour cross-functional hackathon. Team consisted of 3 devs and 3 UX designers * Tech Stack: React, Sass</p>
