@@ -36,8 +36,11 @@
   
 ## Latest projects
   
-  <img width="300" alt="Screen Shot 2023-01-26 at 6 54 58 PM" src="https://user-images.githubusercontent.com/97055104/215000397-4c9ba404-c8da-4054-81e0-667da19938fd.png"> <p> Project-winner of 24 hour cross-functional hackathon. Team consisted of 3 devs and 3 UX designers * Tech Stack: React, Sass</p>
-  <a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> ##Demo </a>
+  <img width="300" alt="Screen Shot 2023-01-26 at 6 54 58 PM" src="https://user-images.githubusercontent.com/97055104/215000397-4c9ba404-c8da-4054-81e0-667da19938fd.png"> 
+   <a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> ##Demo </a><br/>
+  
+  <p> Project-winner of 24 hour cross-functional hackathon. Team consisted of 3 devs and 3 UX designers * Tech Stack: React, Sass</p>
+ 
   
 <img width="300" alt="Screen Shot 2023-01-26 at 6 58 09 PM" src="https://user-images.githubusercontent.com/97055104/215000728-1374b3bd-0a0e-4285-8103-dacfaeb7b879.png">
 
