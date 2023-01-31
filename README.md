@@ -36,9 +36,14 @@
 </div>
   
 ## Latest projects
-  
-  <img width="300" alt="Screen Shot 2023-01-26 at 6 54 58 PM" src="https://user-images.githubusercontent.com/97055104/215000397-4c9ba404-c8da-4054-81e0-667da19938fd.png"> 
-  <img width="300" alt="Screen Shot 2023-01-31 at 2 54 44 PM" src="https://user-images.githubusercontent.com/97055104/215903655-b224a876-10ce-4060-b299-cc469290c446.png">
+  <td> 
+    <table><tr><td valign="top" width="50%">  <img width="300" alt="Screen Shot 2023-01-26 at 6 54 58 PM" src="https://user-images.githubusercontent.com/97055104/215000397-4c9ba404-c8da-4054-81e0-667da19938fd.png"> 
+  <img width="300" alt="Screen Shot 2023-01-31 at 2 54 44 PM" src="https://user-images.githubusercontent.com/97055104/215903655-b224a876-10ce-4060-b299-cc469290c446.png"></td>
+      <tdvalign="top" width="50%"> <img width="300" alt="Screen Shot 2023-01-31 at 2 54 44 PM" src="https://user-images.githubusercontent.com/97055104/215903655-b224a876-10ce-4060-b299-cc469290c446.png"></td>
+    </tr>
+      <tr></tr>
+  </td>
+ 
 
    <a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> Watch Demo </a><br/>
   
