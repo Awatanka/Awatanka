@@ -1,10 +1,7 @@
 <h2 align="center">Hi 👋! </h2 <br/> <h4 align="center"> I'm a Frontend Developer with extra knowledge of UX design, Node.js and MySQL based in Greater Vancouver. I am looking for internship or full-time opportunities! </h4>
 
-  <div align="center" width="200px">
-  <img src="https://user-images.githubusercontent.com/97055104/213554574-d4b12e98-24a8-4d61-af80-0e5acfa47652.gif" />
-   </div> 
   
-  <p align="center"> I have PhD deegree in Food Science and have been teaching how to design and build factories, develop new food products. And now I know how to design and build websites and applications. I have a strong ability to adapt to different working styles and can work well with team members of all levels of experience. I am able to take direction from team leads, while also contributing my own ideas and suggestions. </p>
+  <p align="center"> I have PhD deegree in Food Science and have been teaching how to design and build factories, develop new food products. And now I know how to design and build websites and applications. I have a strong ability to adapt to different working styles and can work well with team members of all levels of experience. I am able to take direction from team leads, while also contributing my own ideas and suggestions.   <img src="https://user-images.githubusercontent.com/97055104/213554574-d4b12e98-24a8-4d61-af80-0e5acfa47652.gif" width="100px"/> </p>
   <br/>
 <h3 align="center"> Skills and tools </h3>
 <div align="center">
