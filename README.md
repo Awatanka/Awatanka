@@ -29,20 +29,12 @@
   <a href="https://www.linkedin.com/in/natalia-sokolova-/" target="_blank">
     <img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" height="35" alt="linkedin logo"  />
   </a>
-  
-
 </div>
   
 ## Latest projects
+<img width="300" alt="Screen Shot 2023-01-26 at 6 54 49 PM" src="https://user-images.githubusercontent.com/97055104/215912377-f7c95879-8e6c-4f6b-8661-dcce4ede5630.png">
+<img width="300" alt="Screen Shot 2023-01-31 at 2 54 44 PM" src="https://user-images.githubusercontent.com/97055104/215912432-ac3734f1-9d5a-4aec-9d47-569987f55a4c.png">
 
-    <table><tr><td valign="top" width="50%">  <img width="300" alt="Screen Shot 2023-01-26 at 6 54 58 PM" src="https://user-images.githubusercontent.com/97055104/215000397-4c9ba404-c8da-4054-81e0-667da19938fd.png"> 
-  <img width="300" alt="Screen Shot 2023-01-31 at 2 54 44 PM" src="https://user-images.githubusercontent.com/97055104/215903655-b224a876-10ce-4060-b299-cc469290c446.png">
-      </td>
-      <tdvalign="top" width="50%"> <img width="300" alt="Screen Shot 2023-01-31 at 2 54 44 PM" src="https://user-images.githubusercontent.com/97055104/215903655-b224a876-10ce-4060-b299-cc469290c446.png"></td>
-    </tr>
-      <tr></tr>
- 
-</table>
    <a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> Watch Demo </a><br/>
   
   <p> Project-winner of 24 hour cross-functional hackathon. Team consisted of 3 devs and 3 UX designers * Tech Stack: React, Sass</p>
