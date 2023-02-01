@@ -33,13 +33,15 @@
 </div>
   
 ## Latest projects
-<img width="300" alt="Screen Shot 2023-01-26 at 6 54 49 PM" src="https://user-images.githubusercontent.com/97055104/215912377-f7c95879-8e6c-4f6b-8661-dcce4ede5630.png">
-<img width="300" alt="Screen Shot 2023-01-31 at 2 54 44 PM" src="https://user-images.githubusercontent.com/97055104/215912432-ac3734f1-9d5a-4aec-9d47-569987f55a4c.png">
+<table> <tr><td><img width="300" alt="Screen Shot 2023-01-26 at 6 54 49 PM" src="https://user-images.githubusercontent.com/97055104/215912377-f7c95879-8e6c-4f6b-8661-dcce4ede5630.png"></td><td><img width="300" alt="Screen Shot 2023-01-26 at 6 58 09 PM" src="https://user-images.githubusercontent.com/97055104/215000728-1374b3bd-0a0e-4285-8103-dacfaeb7b879.png"></td><tr/> <tr><td><a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> Watch Demo </a></td><td><p> Project-winner of 24 hour cross-functional hackathon. Team consisted of 3 devs and 3 UX designers * Tech Stack: React, Sass</p></td><tr/></table>
 
-   <a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> Watch Demo </a><br/>
+
+
+
+
   
-  <p> Project-winner of 24 hour cross-functional hackathon. Team consisted of 3 devs and 3 UX designers * Tech Stack: React, Sass</p>
+  
  
   
-<img width="300" alt="Screen Shot 2023-01-26 at 6 58 09 PM" src="https://user-images.githubusercontent.com/97055104/215000728-1374b3bd-0a0e-4285-8103-dacfaeb7b879.png">
+
 
