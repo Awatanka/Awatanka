@@ -39,7 +39,7 @@
 
 <tr><td width="40%" align="center"><video src="https://user-images.githubusercontent.com/97055104/214915915-d9b24447-be22-4852-90b7-ff67b2022bc2.mp4" style="width: 50"> </video></td><td width="40%" align="center">
 <video src="https://user-images.githubusercontent.com/97055104/216441895-a7b61456-1716-4324-9c24-08e4f83e866a.mp4"></video>
-</td><tr/> <tr><td width="40%" align="center"><a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> </a> <p>This project was dedicated to practice JavaScript DOM manipulation and flexbox layout technic. Tech Stack: HTML, Sass, JavaScript</p> <a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> Repo </a> <a href="https://awatanka.github.io/sport_club/"> Website </a></td><td width="40%" align="center"><p> </td><tr/>
+</td><tr/> <tr><td width="40%" align="center"><a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> </a> <p>This project was dedicated to practice JavaScript DOM manipulation and flexbox layout technic. Tech Stack: HTML, Sass, JavaScript</p> <a href="https://github.com/Awatanka/sport_club"> Repo </a> <a href="https://awatanka.github.io/sport_club/"> Website </a></td><td width="40%" align="center"><p> This project was unique, starting from the idea and design. It is not so professional as it could be< because it was my first project * Tech Stack: HTML, CSS, Bootstrap </p> <a href="https://github.com/Awatanka/TechWoman"> Repo </a> <a href="https://awatanka.github.io/TechWoman/"> Website </a></td><tr/>
 
 
 
