@@ -33,7 +33,13 @@
 </div>
   
 ## Latest projects
-<table> <tr><td width="40%" align="center"><img width="300" alt="Screen Shot 2023-01-26 at 6 54 49 PM" src="https://user-images.githubusercontent.com/97055104/215912377-f7c95879-8e6c-4f6b-8661-dcce4ede5630.png"></td><td width="40%" align="center"><img width="300" alt="Screen Shot 2023-01-26 at 6 58 09 PM" src="https://user-images.githubusercontent.com/97055104/215000728-1374b3bd-0a0e-4285-8103-dacfaeb7b879.png"></td><tr/> <tr><td width="40%" align="center"><a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> Watch Demo </a> <p>Tech Stack: React, Sass, Node.js, Express.js, Knex.js, MySQL, MUI, Bootstrap, Google Map API</p> <a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> Repo </a></td><td width="40%" align="center"><p> Project-winner of 24 hour cross-functional hackathon. Team consisted of 3 devs and 3 UX designers. Tech Stack: React, Sass</p></td><tr/></table>
+<table> <tr><td width="40%" align="center"><img width="300" alt="Screen Shot 2023-01-26 at 6 54 49 PM" src="https://user-images.githubusercontent.com/97055104/215912377-f7c95879-8e6c-4f6b-8661-dcce4ede5630.png"></td><td width="40%" align="center"><img width="300" alt="Screen Shot 2023-01-26 at 6 58 09 PM" src="https://user-images.githubusercontent.com/97055104/215000728-1374b3bd-0a0e-4285-8103-dacfaeb7b879.png"></td><tr/> <tr><td width="40%" align="center"><a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> Watch Demo </a> <p>Tech Stack: React, Sass, Node.js, Express.js, Knex.js, MySQL, MUI, Bootstrap, Google Map API</p> <a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> Repo </a></td><td width="40%" align="center"><p> Project-winner of 24 hour cross-functional hackathon. Team consisted of 3 devs and 3 UX designers. Tech Stack: React, Sass</p></td><tr/>
+
+<tr><td width="40%" align="center"><video src="https://user-images.githubusercontent.com/97055104/214915915-d9b24447-be22-4852-90b7-ff67b2022bc2.mp4" style="width: 50"> </video></td><td width="40%" align="center"><img width="300" alt="Screen Shot 2023-01-26 at 6 58 09 PM" src="https://user-images.githubusercontent.com/97055104/215000728-1374b3bd-0a0e-4285-8103-dacfaeb7b879.png"></td><tr/> <tr><td width="40%" align="center"><a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> </a> <p>This project was dedicated to practice JavaScript DOM manipulation and flexbox layout technic. Tech Stack: HTML, Sass, JavaScript</p> <a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> Repo </a></td><td width="40%" align="center"><p> Project-winner of 24 hour cross-functional hackathon. Team consisted of 3 devs and 3 UX designers. Tech Stack: React, Sass</p></td><tr/>
+
+
+
+</table>
 
 
 
