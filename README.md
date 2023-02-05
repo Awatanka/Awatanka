@@ -35,7 +35,7 @@
 ## Latest projects
 <table> <tr><td width="40%" align="center"><video src="https://user-images.githubusercontent.com/97055104/216438347-de7f83de-3a0b-42fb-a66d-64169cd02152.mp4"> </video></td>
 <td width="40%" align="center"> <video src="https://user-images.githubusercontent.com/97055104/214985341-217f7eb2-0bbf-46eb-a1c0-bfbea209bb4d.mp4">
-</video></td><tr/> <tr><td width="40%" align="center"> <p> Tech Stack: React, Sass, Node.js, Express.js, Knex.js, MySQL, MUI, Bootstrap, Google Map API</p> </td><td width="40%" align="center"><p> Project-winner of 24 hour cross-functional hackathon. Team consisted of 3 devs and 3 UX designers. Tech Stack: React, Sass</p> <a href="https://github.com/Awatanka/405-found"> Repo </a> </td><tr/>
+  </video></td><tr/> <tr><td width="40%" align="center"> <h4> Personal Project Rentsy </h> <p> Tech Stack: React, Sass, Node.js, Express.js, Knex.js, MySQL, MUI, Bootstrap, Google Map API</p> </td><td width="40%" align="center"><p> Project-winner of 24 hour cross-functional hackathon. Team consisted of 3 devs and 3 UX designers. Tech Stack: React, Sass</p> <a href="https://github.com/Awatanka/405-found"> Repo </a> </td><tr/>
 
 <tr><td width="40%" align="center"><video src="https://user-images.githubusercontent.com/97055104/214915915-d9b24447-be22-4852-90b7-ff67b2022bc2.mp4" style="width: 50"> </video></td><td width="40%" align="center">
 <video src="https://user-images.githubusercontent.com/97055104/216441895-a7b61456-1716-4324-9c24-08e4f83e866a.mp4"></video>
