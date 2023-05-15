@@ -25,7 +25,7 @@ With my experience in both food science and technology, I bring a fresh perspect
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" width="42" alt="mysql logo"  />
 </div>
 
-  <h3 align="center"> Connect with me </h3> 
+<h3 align="center"> Connect with me </h3> 
 <div align="center">
   <a href = "mailto:natalia.sokolova.ca@gmail.com"><img src="https://user-images.githubusercontent.com/97055104/214204359-0e348235-6a63-46fb-a641-f3b9506f7a33.png" target="_blank" height="35" margin-right="20"></a>
   
