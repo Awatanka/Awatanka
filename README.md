@@ -1,5 +1,10 @@
 
   <h2 align="center">Hi 👋! </h2>
+<h3 align="center"> Portfolio </h3> 
+<div align="center">
+  <a href = " https://sokolova.ca/"></a>
+</div>
+ 
 <h3 align="center"> Skills and tools </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="42" alt="react logo"  />
