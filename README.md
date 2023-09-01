@@ -1,12 +1,5 @@
 
   <h2 align="center">Hi 👋! </h2>
-  <table><tr><td> <img src="https://user-images.githubusercontent.com/97055104/213554574-d4b12e98-24a8-4d61-af80-0e5acfa47652.gif" width="150px"/></td> <td><h4 align="center"> As a software developer with expertise in UX design, I bring a unique perspective to the table. My passion lies in working on the client side, where I can create seamless user experiences. However, my deep understanding of full-stack development makes me a well-rounded asset to any team. I am eager to take on an internship or full-time role to continue growing my skills and advance my career in the industry.</h4></td></tr> </table>
-  
- 
-  <p align="center"> I am a versatile individual with a PhD in Food Science and extensive experience in teaching how to design and build factories and develop innovative food products. However, my passion for creative problem-solving and design has led me to explore the exciting world of web and application development. I have recently made a career transition to this field, and I am excited to bring my unique blend of expertise and creativity to every project I work on.
-
-With my experience in both food science and technology, I bring a fresh perspective to every project. I possess a strong ability to adapt to different working styles and collaborate effectively with team members of all levels of experience. As a team player, I am able to take direction from team leads while also contributing my own ideas and suggestions, ensuring that every project I work on is a success. </p>
-  <br/>
 <h3 align="center"> Skills and tools </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="42" alt="react logo"  />
