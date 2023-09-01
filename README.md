@@ -1,10 +1,8 @@
 
   <h2 align="center">Hi 👋! </h2>
-<h3 align="center"> Portfolio </h3> 
-<img width="400" alt="Screenshot 2023-09-01 at 2 06 55 PM" src="https://github.com/Awatanka/Awatanka/assets/97055104/432f2fc6-d42d-45ff-8c77-ad2c42d5d6e5">
-
 <div align="center">
-  <a href = " https://sokolova.ca/"></a>
+  <h3 align="center"> Portfolio </h3> 
+  <a href = " https://sokolova.ca/"><img width="300" alt="Screenshot 2023-09-01 at 2 08 32 PM" src="https://github.com/Awatanka/Awatanka/assets/97055104/3e9d1c12-09f6-4a21-ae9c-4556605c9948"></a>
 </div>
  
 <h3 align="center"> Skills and tools </h3>
