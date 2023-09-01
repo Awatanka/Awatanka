@@ -1,6 +1,6 @@
 
   <h2 align="center">Hi 👋! </h2>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Awatanka/github-readme-stats)
+  https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Awatanka/github-readme-stats
 <h3 align="center"> Skills and tools </h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="42" alt="react logo"  />
