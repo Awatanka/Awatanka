@@ -1,9 +1,9 @@
 
   <h2 align="center">Hi 👋! </h2>
-<div align="center">
+<!-- <div align="center">
   <h3 align="center"> Portfolio </h3> 
   <a href = " https://sokolova.ca/"><img width="300" alt="Screenshot 2023-09-01 at 2 08 32 PM" src="https://github.com/Awatanka/Awatanka/assets/97055104/3e9d1c12-09f6-4a21-ae9c-4556605c9948"></a>
-</div>
+</div> -->
  
 <h3 align="center"> Skills and tools </h3>
 <div align="center">
