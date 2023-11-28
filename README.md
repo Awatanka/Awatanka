@@ -31,17 +31,6 @@
     <img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" height="35" alt="linkedin logo"  />
   </a>
 </div>
-  
-## Latest projects
-<table> <tr><td width="40%" align="center"><video src="https://user-images.githubusercontent.com/97055104/216438347-de7f83de-3a0b-42fb-a66d-64169cd02152.mp4"> </video></td>
-<td width="40%" align="center"> <video src="https://user-images.githubusercontent.com/97055104/214985341-217f7eb2-0bbf-46eb-a1c0-bfbea209bb4d.mp4">
-  </video></td><tr/> <tr><td width="40%" align="center"> <h4> Personal Project Rentsy </h4> <p> Tech Stack: React, Sass, Node.js, Express.js, Knex.js, MySQL, MUI, Bootstrap, Google Map API</p> </td><td width="40%" align="center"> <h4> Project-winner of 24 hour cross-functional hackathon.</h4> <p> Team consisted of 3 devs and 3 UX designers. Tech Stack: React, Sass</p> <a href="https://github.com/Awatanka/405-found"> Repo </a> </td><tr/>
-
-<tr><td width="40%" align="center"><video src="https://user-images.githubusercontent.com/97055104/214915915-d9b24447-be22-4852-90b7-ff67b2022bc2.mp4" style="width: 50"> </video></td><td width="40%" align="center">
-<video src="https://user-images.githubusercontent.com/97055104/216441895-a7b61456-1716-4324-9c24-08e4f83e866a.mp4"></video>
-</td><tr/> <tr><td width="40%" align="center"><a href="https://drive.google.com/file/d/1eGv3Bqm84etQxDCII1M9w31Z880idmp1/view?usp=sharing"> </a> <p>This project was dedicated to practice JavaScript DOM manipulation and flexbox layout technic. Tech Stack: HTML, Sass, JavaScript</p> <a href="https://github.com/Awatanka/sport_club"> Repo </a> <a href="https://awatanka.github.io/sport_club/"> Website </a></td><td width="40%" align="center"><h4> Vancouver for YOU </h4><p> This project was unique, starting from the idea and design. It is not so professional as it could be< because it was my first project * Tech Stack: HTML, CSS, Bootstrap </p> <a href="https://github.com/Awatanka/TechWoman"> Repo </a> <a href="https://awatanka.github.io/TechWoman/"> Website </a></td><tr/>
-
-</table>
 
 
 
